@@ -1,0 +1,1 @@
+"use strict";var platform_browser_dynamic_1=require("@angular/platform-browser-dynamic"),core_1=require("@angular/core"),robot_module_1=require("robot/robot.module");core_1.enableProdMode(),platform_browser_dynamic_1.platformBrowserDynamic().bootstrapModule(robot_module_1.RobotModule);
